@@ -4,7 +4,7 @@ title: "The PhotoCake System: A Review"
 date: 2010-09-10
 categories:
 ---
-PhotoCake Online starter kit they typically sell for $350. They don’t have prices listed online since they’ll give discounts to customers that have a history of spending money with them. With this you get an Epson printer, a pack of edible inks and an assortment of edible paper in addition to some other garbage like a poster and useless flyers. 
+The PhotoCake Online starter kit DecoPac typically sell for $350. They don’t have prices listed online since they’ll give discounts to customers that have a history of spending money with them. With this you get an Epson printer, a pack of edible inks and an assortment of edible paper in addition to some other garbage like a poster and useless flyers. 
 
 The Epson printer they claim is “modified for edible use” but that’s a lie. It is a regular Epson printer which you can purchase from your local office store or online for about $90. It’s hard to find whichever model they’re currently shipping out because they buy up the available supply. 
 If you’re interested in the quality of the printer, well, $90 is pretty cheap. Look up “Epson XP-430” on Amazon and read the reviews. They’re not pretty. 
@@ -34,9 +34,13 @@ DecoPac doesn’t follow this model and yet act like they do. The edible ink is 
 Oh and I’m positive DecoPac makes profit on shipping costs too. They list shipping costs for printers as follows:
 
 $20 - Ground Shipping
+
 $50 - 2-Day Shipping
+
 $75 - Overnight
+
 $100 - Saturday Delivery
+
 
 If you’ve ever shipped anything and know about costs, these are not realistic. Someone is taking a chunk of change in the middle. 
 
@@ -74,7 +78,7 @@ In summary, they sell you a cheap printer at a marked up price and then sell you
 
 DecoPac and PhotoCake is essentially a monopoly. They cornered the market and because of a lack of serious competition they have no reason to improve or even make a functional product. 
 
-I have no experience with Inkedibles, Icingimages, Icinginks or Ink4cakes but am aware of their existence. If one of them could win a contract for licensed images, some real competition could come into the play and spur real development in the space. 
+Other competition consists of Inkedibles, Icingimages, Icinginks or Ink4cakes. If one of them could win a contract for licensed images, some real competition could come into the play and spur real development in the space. 
 
 My solution for any bakery looking to get into edible image printing is to assemble your own system. Buy a Canon IP7220 printer online and then purchase edible inks from DecoPac or someone else. You could also purchase your own Epson printer from Amazon and buy edible inks from DecoPac. A $100 printer that you replace every few months is much better than $250. If the $150 difference is worth it for licensed images then you only have one option and I wish you well. 
 
