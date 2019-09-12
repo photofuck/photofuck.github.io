@@ -6,4 +6,4 @@ categories:
 ---
 Be the first to have your story heard.
 
-billybaker@protonmail.com
+billythebaker@protonmail.com

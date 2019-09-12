@@ -10,4 +10,4 @@ Detailed here is my experience with DecoPac and the PhotoCake system.
 
 Don't hesitate to reach out and have your testimonial heard. 
 
-Billybaker@protonmail.com
+billythebaker@protonmail.com
