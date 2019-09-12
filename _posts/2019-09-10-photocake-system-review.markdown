@@ -7,7 +7,7 @@ categories:
 The PhotoCake Online starter kits are typically sold for $350. They don’t have prices listed online since they’ll give discounts to customers that have a history of spending money with them. With this you get an Epson printer, a pack of edible inks and an assortment of edible paper in addition to some other garbage like a poster and flyers. 
 
 The Epson printer they claim is “modified for edible use” but that’s a lie. It is a regular Epson printer which you can purchase from your local office store or online for about $90.  
-If you’re interested in the quality of the printer, well, $90 is pretty cheap. Look up “Epson XP-430” on Amazon and read the reviews. [They’re not pretty.](https://www.amazon.com/Epson-Expression-Wireless-Printer-Replenishment/dp/B01BIGO5IW/ref=sr_1_3?keywords=xp+430&qid=1568316749&sr=8-3) 
+If you’re interested in the quality of the printer, well, $90 is pretty cheap. Look up “Epson XP-430” on Amazon and read the reviews. [They’re not pretty.](https://www.amazon.com/Epson-Expression-Wireless-Printer-Replenishment/dp/B01BIGO5IW/) 
 
 The PhotoCake Online software is a computer app that looks like freeware you’d expect to contain a virus. Upon purchase of the system, DecoPac creates an account in their system. The app is locked behind this account, without it you cannot use the application. This is a form of “DRM” or “Digital rights management”. Since software can be easily copied and can spread rapidly, there has to be a way to manage who has access to the true value of the software and this account system is one form of DRM DecoPac utilizes. Remember DRM, we’ll come back to this.
 
