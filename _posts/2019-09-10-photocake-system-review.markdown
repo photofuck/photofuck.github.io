@@ -4,7 +4,7 @@ title: "The PhotoCake System: A Review"
 date: 2019-09-10
 categories:
 ---
-The PhotoCake Online starter kit are typically sold for $350. They don’t have prices listed online since they’ll give discounts to customers that have a history of spending money with them. With this you get an Epson printer, a pack of edible inks and an assortment of edible paper in addition to some other garbage like a poster and flyers. 
+The PhotoCake Online starter kits are typically sold for $350. They don’t have prices listed online since they’ll give discounts to customers that have a history of spending money with them. With this you get an Epson printer, a pack of edible inks and an assortment of edible paper in addition to some other garbage like a poster and flyers. 
 
 The Epson printer they claim is “modified for edible use” but that’s a lie. It is a regular Epson printer which you can purchase from your local office store or online for about $90. It’s hard to find whichever model they’re currently shipping out because they buy up the available supply. 
 If you’re interested in the quality of the printer, well, $90 is pretty cheap. Look up “Epson XP-430” on Amazon and read the reviews. They’re not pretty. 
