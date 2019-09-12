@@ -80,7 +80,7 @@ DecoPac and PhotoCake is essentially a monopoly. They cornered the market and be
 
 Other competition consists of Inkedibles, Icingimages, Icinginks or Ink4cakes. If one of them could win a contract for licensed images, some real competition could come into the play and spur real development in the space. 
 
-My solution for any bakery looking to get into edible image printing is to assemble your own system. Buy a Canon IP7220 printer online and then purchase edible inks from DecoPac or someone else. You could also purchase your own Epson printer from Amazon and buy edible inks from DecoPac. A $100 printer that you replace every few months is much better than $250. If the $150 difference is worth it for licensed images then you only have one option and I wish you well. 
+My solution for any bakery looking to get into edible image printing is to assemble your own system. Buy a Canon IP7220 printer online and then see if you can purchase edible inks. If licensed images are needed then you only have one option and I wish you the best of luck dealing with DecoPac. 
 
 If you want to give a testimonial and have your experience heard don’t hesitate to email me at billythebaker@protonmail.com.
 
