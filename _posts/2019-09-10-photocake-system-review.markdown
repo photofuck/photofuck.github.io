@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The PhotoCake System: A Review"
-date: 2019-09-10
+date: 2019-08-10
 categories:
 ---
 The PhotoCake Online starter kits are typically sold for $350. They don’t have prices listed online since they’ll give discounts to customers that have a history of spending money with them. With this you get an Epson printer, a pack of edible inks and an assortment of edible paper in addition to some other garbage like a poster and flyers. 
