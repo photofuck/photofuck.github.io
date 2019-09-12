@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The PhotoCake System: A Review"
-date: 2010-09-10
+date: 2019-09-10
 categories:
 ---
-The PhotoCake Online starter kit DecoPac typically sell for $350. They don’t have prices listed online since they’ll give discounts to customers that have a history of spending money with them. With this you get an Epson printer, a pack of edible inks and an assortment of edible paper in addition to some other garbage like a poster and useless flyers. 
+The PhotoCake Online starter kit are typically sold for $350. They don’t have prices listed online since they’ll give discounts to customers that have a history of spending money with them. With this you get an Epson printer, a pack of edible inks and an assortment of edible paper in addition to some other garbage like a poster and flyers. 
 
 The Epson printer they claim is “modified for edible use” but that’s a lie. It is a regular Epson printer which you can purchase from your local office store or online for about $90. It’s hard to find whichever model they’re currently shipping out because they buy up the available supply. 
 If you’re interested in the quality of the printer, well, $90 is pretty cheap. Look up “Epson XP-430” on Amazon and read the reviews. They’re not pretty. 
@@ -23,7 +23,7 @@ While ordering Image Credits, credit card information has to be typed in every t
 
 The other “credit” on an account is something called a “media credit”. On every package of edible paper from DecoPac (its missing more often than not) is a sticker with a long number on it, type this into their system and it gives you the same amount of media credits as sheets of paper in the package. (24 sheets, 24 credits). In order to print on the system you need at least 1 media credit. DecoPac’s edible paper is not cheap at all and there are much cheaper options found online except if you order online you don’t get media credits and thus can’t actually use the paper you purchased. It seems instead of competing in the open market they put in a form of physical DRM and call it a day. DecoPac supports answer for this is “it’s so you can keep track of how many sheets of paper you have!”. I’m going to guess this is something management tells them to repeat, I find it hard to believe someone could be that naive. 
 
-Oh and if there is a misprint because of a paper jam or any other simple reason for losing a print job, DecoPac is quick you accuse you of fraud and you will have to fight to get another free print. Sometimes their reps rollover easily. I get a feeling they aren’t treated well. 
+Oh and if there is a misprint because of a paper jam or any other simple reason for losing a print job, DecoPac is quick to accuse you of fraud and you will have to fight to get another free print. Sometimes their reps rollover easily. I get a feeling they aren’t treated well. 
 
 Quick lesson on how inkjet printer companies make money:
 Inkjet printers are manufactured at a loss. The ink meanwhile is manufactured for extremely cheap and then marked up a ton. Ink is one of the most artificially expensive fluids in the world. 
