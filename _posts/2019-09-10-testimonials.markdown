@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Testimonials"
-date: 2019-09-11
+date: 2019-09-09
 categories:
 ---
 Be the first to have your story heard.
 
-Billybaker@protonmail.com
+billybaker@protonmail.com
